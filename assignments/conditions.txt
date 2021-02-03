@@ -98,3 +98,39 @@ Your Answer is : 16
 
 
 
+
+16. Accept the kilometers covered and calculate the bill according to the following criteria:
+
+First 10 Km              Rs11/km
+
+Next 90Km               Rs 10/km
+
+After that               Rs9/km
+
+
+
+17. Accept the marks of English, Math and Science, Social Studies Subject and display the stream allotted according to following
+
+All Subjects more than 80 marks —       Science Stream
+
+English >80 and Math, Science above 50 –Commerce Stream
+
+English > 80 and Social studies > 80    —   Humanities
+
+
+18. Accept three numbers from the user and display the second largest number.
+
+
+19. Write a program to whether a number (accepted from user) is divisible by 2 and 3 both.
+
+
+20. Write a program to check whether a number (accepted from user) is positive or negative.
+
+
+
+
+
+
+
+
+
