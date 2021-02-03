@@ -38,3 +38,63 @@
     And print
     percentage of class attended
     Is student is allowed to sit in exam or not.
+    
+    
+    
+9. Write a program to calculate the electricity bill (accept number of unit from user) according to the following criteria :
+   Unit                                                     Price  
+First 100 units                                             no charge
+Next 100 units                                              Rs 5 per unit
+After 200 units                                             Rs 10 per unit
+(For example if input unit is 350 than total bill amount is Rs2000)
+
+
+10. Write a program to check whether the last digit of a number( entered by user ) is 
+divisible by 3 or not.
+
+
+11. Write a program to check whether a number is divisible by 7 or not.
+
+
+12. Write a program to check whether a number entered is three digit number or not.
+
+
+13. A company decided to give bonus to employee according to following criteria:
+
+    Time period of Service                Bonus
+
+    More than 10 years             10%
+
+    >=6 and <=10                   8%
+
+    Less than 6 years              5%
+
+    Ask user for their salary and years of service and print the net bonus amount.
+    
+    
+14. Accept three sides of a triangle and check whether it is an equilateral, isosceles or scalene triangle.
+
+Note :
+
+An equilateral triangle is a triangle in which all three sides are equal.
+
+A scalene triangle is a triangle that has three unequal sides.
+
+An isosceles triangle is a triangle with (at least) two equal sides.
+
+
+
+15. Write a program to accept two numbers and mathematical operators and perform operation accordingly.
+
+Like:
+
+Enter First Number: 7
+
+Enter Second Number : 9
+
+Enter operator : +
+
+Your Answer is : 16
+
+
+
